@@ -36,12 +36,12 @@ In this repository, we present 3 experiments on SPP, including split-MNIST, CIFA
 You can get the result of SPP and other 8 methods via running the script with the corresponding name, for instance /exp_split_MNIST/SPP/ours.py or /exp_split_MNIST/ewc/ewc.py
 
 ## Citation 
-Please consider citing this paper, if this repo is useful to your research:
-'''
-@article{Peng2018cl,
-    title={Overcoming Catastrophic Forgetting by Soft Parameter Pruning},
-    author={Peng, Jian and Jiang, Hao and Li, Zhuo and Guo, Enqiang and Wan, Xiaohong and Deng, Min and Zhu, Qing and Li, Haifeng},
-    journal={arXiv: https://arxiv.org/abs/1812.01640},
-    year={2018}
+Please consider citing this paper, if this repo is useful to your research:\\	
+```
+@article{Peng2018cl, \\
+    title={Overcoming Catastrophic Forgetting by Soft Parameter Pruning}, \\
+    author={Peng, Jian and Jiang, Hao and Li, Zhuo and Guo, Enqiang and Wan, Xiaohong and Deng, Min and Zhu, Qing and Li, Haifeng}, \\
+    journal={arXiv: https://arxiv.org/abs/1812.01640}, \\
+    year={2018} \\
 }
-'''
+```

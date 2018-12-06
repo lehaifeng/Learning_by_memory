@@ -1,5 +1,6 @@
 # Learning_by_memory
 This is the source code for the manuscript titled Overcome Catastrophic Forgetting by Soft Parameter Pruning
+
 The manuscript is available at http://arxiv.org/abs/1812.01640
 
 # CL_SPP
